@@ -75,7 +75,7 @@ The project was limited by the anonymity of the data. Specifically the geographi
 Future models can be created using more complicated feature engineering and analysis such as clustering of the geographic features. For the purposes of this project, doing so would have complicated the output and made it difficult to implement within a real workplace.
 
 ### Further Information
-Please review the narrative of our analysis in [our jupyter notebook](./Jupyter_notebook.ipynb) or review our [presentation](./presentation.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./insurance_notebook.ipynb) or review our [presentation](./presentation.pdf)
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
 
@@ -84,7 +84,7 @@ For any additional questions, please reach out via email at santana2.miguel@gmai
 ```
 
 ├── README.md               <- The top-level README for reviewers of this project.
-├── jupyter_notebook.ipynb     <- narrative documentation of analysis in jupyter notebook
+├── insurance_notebook.ipynb     <- narrative documentation of analysis in jupyter notebook
 ├── presentation.pdf        <- pdf version of project presentation
 
 ```
