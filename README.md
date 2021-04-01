@@ -1,7 +1,7 @@
 # Health Insurance Lead Prediction - Kaggle Competition
 ## Job-A-Thon - Analytics Vidhya, Health Insurance
 
-* **Author**: Miguel Santana
+**Author**: Miguel Santana
 
 ![!](/images/leadpredictcover.jpg)
 Photo by Lukas Blazek on Unsplash
