@@ -3,6 +3,9 @@
 
 * **Author**: Miguel Santana
 
+![!](/images/leadpredictcover.jpg)
+Photo by Lukas Blazek on Unsplash
+
 Thank you for reviewing this repository. The author's contact info, blog post, sources and social media profiles are listed below under **further information.**
 
 ### Project Methodology
