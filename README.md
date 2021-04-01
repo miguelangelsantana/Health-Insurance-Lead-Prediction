@@ -63,8 +63,10 @@ GridSearchCV using Gradient Boosting Classifier was performed.
 The model's top 3 features were Reco Policy Category, Reco Policy Premium and City Code. Within those three categories, subcategories yielded the highest positive to total response ratios. It is recommended to focus on clients in/with:
 
 City Codes: C1, C2, C13, C23
+
 Reco Policy Categories: 15, 22
-Reco Policy Premiums between: 15,000 & 19,000.
+
+Reco Policy Premiums between: 15,000 & 19,999.
 
 #### Limitations
 The project was limited by the anonymity of the data. Specifically the geographic data that could have been used for additional feature engineering leading to higher scores.
